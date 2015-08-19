@@ -33,9 +33,11 @@ And finally we can run emulator (platform = android or ios):
 cordova emulate [platform]
 ```
 
-Alternatively we can run it directly on the connected device through:
+Alternatively we can run it directly on the connected device:
 
 ```bash
 cordova run [platform]
 ```
 
+Now we just need some HMTL/CSS/JS magic to make a cool app.
+Happy days!
