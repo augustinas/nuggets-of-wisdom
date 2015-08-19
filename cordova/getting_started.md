@@ -13,6 +13,7 @@ cordova create hello com.example.hello HelloWorld
 ```
 
 All of the development code goes into "hello/www/" folder. Project's homepage is assumed to be in the "hello/www/index.html" file.
+
 Let's specify target plaforms of the project now.
 
 ```bash
@@ -40,4 +41,5 @@ cordova run [platform]
 ```
 
 Now we just need some HMTL/CSS/JS magic to make a cool app.
+
 Happy days!
