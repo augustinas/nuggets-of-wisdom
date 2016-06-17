@@ -8,4 +8,4 @@ Various notes on code that I find useful.
 
 #### JavaScript Concepts
 
-1. [Asynchronous code](https://github.com/augustinas/notes-on-JS/blob/master/asyncPattern/async.md)
+1. [Asynchronous code](javascript/async-vs-sync/async.md)
