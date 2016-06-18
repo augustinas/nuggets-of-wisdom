@@ -9,3 +9,4 @@ Various notes on code that I find useful.
 #### JavaScript Concepts
 
 1. [Asynchronous code](javascript/async-vs-sync/async.md)
+2. [Proper variable scoping in loops](javascript/var-scope-in-loops.md)
